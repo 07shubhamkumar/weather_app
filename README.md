@@ -55,4 +55,4 @@ PY
 If this opens a small window, Tkinter is installed correctly.
 
 Credits
-Weather data from OpenWeatherMa
+Weather data from OpenWeatherMap
